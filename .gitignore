@@ -1,5 +1,4 @@
 raw_data/
-processed/
 __pycache__/
 *.pyc
 .venv/

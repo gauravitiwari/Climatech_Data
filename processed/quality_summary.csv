@@ -1,0 +1,10 @@
+site,parameter,regime,trust,n_rows,start,end,n_duplicate_timestamps,typical_interval_min,completeness_pct,n_gaps,total_gap_hours,n_out_of_bounds,n_frozen_runs,n_outliers_iqr,n_jumps
+Kamand,depth,K_depth_A,ok,1565,2025-07-27 10:34:24,2025-09-12 00:24:02,0,16.95,39.55,71,678.2,0,0,0,72
+Kamand,depth,K_depth_B,suspect,931,2025-11-01 17:49:00,2025-11-25 10:18:00,0,15.0,40.94,22,341.8,0,12,0,1
+Kamand,depth_stage_burst,Kamand_depth_stage_burst,ok,34,2025-08-30 16:22:01,2025-08-30 17:38:35,0,1.52,67.35,1,0.5,0,0,0,11
+Kamand,velocity,Kamand_velocity,ok,3076,2025-06-28 16:27:50,2025-11-09 06:00:59,0,15.0,23.99,167,2312.4,171,8,71,567
+Kamand,velocity_UNCONFIRMED,Kamand_velocity_UNCONFIRMED,ok,15139,2026-01-05 15:02:57,2026-01-07 13:21:54,0,0.08,45.4,9,25.3,35,202,2677,3217
+Kamand,velocity_burst,Kamand_velocity_burst,ok,24,2025-08-30 16:21:13,2025-08-30 17:10:51,0,1.52,73.34,1,0.1,7,1,0,0
+North,depth,N_depth_burst_04may26,suspect,16,2026-05-04 13:08:08,2026-05-04 17:36:54,0,20.28,100.0,0,0.0,0,0,0,0
+North,depth,N_depth_main,ok,21414,2025-01-07 00:08:00,2026-04-05 09:23:49,8,16.42,53.84,129,5537.4,0,0,0,431
+North,velocity,North_velocity,ok,6256,2025-06-24 07:22:20,2026-06-03 17:53:35,4,15.7,19.8,272,6422.4,0,19,0,997
